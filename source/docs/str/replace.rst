@@ -13,7 +13,7 @@ Syntax
 *old*
     Required. String to be replaced.
 *new*
-    Optional. String to replace the old one.
+    Required. String to replace the old one.
 *count*
     Optional. Number of *old* occurrences to replace.
 
